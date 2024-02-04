@@ -45,6 +45,7 @@ const plannedVisits = [
       "Southbank",
       "London Eye",
       "Westminster Bridge",
+      "Güzel bir pubda Fish & Chips 🍟🐟",
     ],
     imageSrc: "/images/tower_bridge.jpg",
     staticImage: (
@@ -58,6 +59,7 @@ const thingsToRememberInLondon = [
   "Yanınıza şemsiye almayı unutmayın.",
   "Metroya kredi karti ile binebilirsiniz.",
   "Trafik soldan akar.",
+  "Citymapper uygulamasını indirin.",
   "Stansted Havaalanı'ndan Londra'ya trenle gitmek isterseniz Stansted Express'i kullanabilirsiniz.",
   "Ama Uber en kolayı.",
 ];
